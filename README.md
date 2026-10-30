@@ -157,5 +157,5 @@ The system uses SQLite triggers to enforce consistency:
 
 ## Author
 
-Alireza Ranjbar  
-email: alireza.ranjbar1384@gmail.com
+Parham Afghan 
+email: parham.a83@gmail.com
